@@ -55,13 +55,13 @@
         <section>
           <h2>Experience</h2>
           <ul>
-          <li>Newbie in Html, Css, and Javascript</li>
+          <li>Newbie in maybe intermediate Html, Css, and Javascript</li>
           </ul>
         </section>
         <section>
           <h2>Skills</h2>
           <ul>
-            <li>Html, c++, JavaScript, Css</li>
+            <li>my skills is intermediate in Html, c++, JavaScript, Css</li>
             <li>good at games maybe</li>
             <li>other skills: teamwork, can communicate properly, time management</li>
           </ul>
