@@ -10,7 +10,7 @@
 
 <h2></h2>
 
-<img src="./assets/img/Jordan.jpg" alt="Jordan" width="180" height="170">
+<img src="./assets/img/my resume.jpg" alt="my resume" width="200" height="200">
 
 
 <a name="readme-top">
