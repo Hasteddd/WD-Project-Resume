@@ -35,7 +35,7 @@
      <div class="container">
       <header>
         <h1>Francis Benj B. Jordan</h1>
-        <p>BSITWMA</p>
+        <p>hi i am a firstyear college student in FEUTECH my course in BSITWMA im new to programming and my goal is to become good in IT</p>
       </header>
       <section>
         <h2>Contact Information</h2>
