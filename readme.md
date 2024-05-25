@@ -3,29 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Resume</title>
-</head>
-<body>{
-  font-family:Arial,sans-serif;
-  line-height: 1.6;
-  margin: 0;
-  padding: 20px;
-}
-  container{
-    max-width: 800px;
-    margin: auto;
-}
-  h1, h2, h3{
-    margin-bottom: 10px;
-  }
-  <ul>{
-    list-style-type: none;
-    padding: 0;
-  }
-  <li> {
-      margin-bottom: 5px;
-  }
-    <style>
+
   </head>
        </section>
         <section>
@@ -52,8 +30,7 @@
         </section>
         <section>
           <h2>Experience</h2>
-          <h3>BSITWMA</h3>
-          <p>Newbie in Html, Css, and Javascript</p>
+          <li>Newbie in Html, Css, and Javascript</li>
         </section>
         <section>
           <h2>Skills</h2>
@@ -64,8 +41,6 @@
           </ul>
         </section>
         <section>
-          <img src="./assets/img/Jordan.jpg" alt="Jordan" width="180" height="170">
-        </section>
      </div>
 </body>
 </html>
