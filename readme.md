@@ -13,6 +13,7 @@
 <img src="./assets/img/my resume.jpg" alt="my resume" width="200" height="200">
 
 
+
 <a name="readme-top">
 
 <br/>
@@ -35,7 +36,7 @@
      <div class="container">
       <header>
         <h1>Francis Benj B. Jordan</h1>
-        <p>hi i am a firstyear college student in FEUTECH my course in BSITWMA im new to programming and my goal is to become good in IT</p>
+        <p>BSITWMA</p>
       </header>
       <section>
         <h2>Contact Information</h2>
@@ -61,7 +62,7 @@
           <h2>Skills</h2>
           <ul>
             <li>Html, c++, JavaScript, Css</li>
-            <li>maybe in games</li>
+            <li>good at games maybe</li>
             <li>other skills: teamwork, can communicate properly, time management</li>
           </ul>
         </section>
@@ -167,6 +168,3 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-
-
-
