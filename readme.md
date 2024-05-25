@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+  <title>My Resume</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -36,7 +36,7 @@
      <div class="container">
       <header>
         <h1>Francis Benj B. Jordan</h1>
-        <p>BSITWMA</p>
+        <p>Hi, I am a first-year college student at FEUTECH. My course is BSITWMA. I'm new to programming and my goal is to become good in programming. i am 19yo my hobbies is sleeping, eating, listening to music and playing games i also try html, css, js and c++.</p>
       </header>
       <section>
         <h2>Contact Information</h2>
