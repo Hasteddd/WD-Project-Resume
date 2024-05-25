@@ -9,7 +9,8 @@
 
 <h2></h2>
 
-<img src="assets/img/Jordan.jpg" alt="Jordan" class="jpg">
+<img src="./assets/img/Jordan.jpg" alt="Jordan" width="180" height="170">
+  </a>
 
 
 <a name="readme-top">
@@ -41,7 +42,7 @@
         <ul>
           <li>2023@fit.edu.ph</li>
           <li>Phone:(63) 9951956028</li>
-          <li>LinkedIn: linkedIn.com</li>
+          <li>fbenj.0412@gmail.com</li>
           </ul>
       </section>
       <section>
@@ -52,7 +53,9 @@
         </section>
         <section>
           <h2>Experience</h2>
+          <ul>
           <li>Newbie in Html, Css, and Javascript</li>
+          </ul>
         </section>
         <section>
           <h2>Skills</h2>
