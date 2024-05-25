@@ -61,7 +61,7 @@
           <h2>Skills</h2>
           <ul>
             <li>Html, c++, JavaScript, Css</li>
-            <li>framewroks, bootstrap</li>
+            <li>maybe in games</li>
             <li>other skills: teamwork, can communicate properly, time management</li>
           </ul>
         </section>
