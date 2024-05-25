@@ -1,3 +1,24 @@
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+.avatar {
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+    </style>
+</head>
+<body>
+
+<h2></h2>
+
+<img src="assets/img/Jordan.jpg" alt="Jordan" class="avatar">
+</a>
+
 <a name="readme-top">
 
 <br/>
@@ -7,18 +28,13 @@
   <a href="https://https://github.com/Hasteddd/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
      <img src=".assets/img/Jordan.jpg" alt="Jordan" width="180" height="170">
-  </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Hi world</h3>
+  <h3 align="center">My Resume</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
   short description. (BISTWMA)
-  <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 
   </head>
        </section>
