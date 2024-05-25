@@ -55,7 +55,7 @@
         <section>
           <h2>Experience</h2>
           <ul>
-          <li>Newbie in maybe intermediate Html, Css, and Javascript</li>
+          <li>Newbie or maybe intermediate Html, Css, and Javascript</li>
           </ul>
         </section>
         <section>
