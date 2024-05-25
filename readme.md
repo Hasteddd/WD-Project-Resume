@@ -41,7 +41,7 @@
       <section>
         <h2>Contact Information</h2>
         <ul>
-          <li>2023@fit.edu.ph</li>
+          <li>202310095@fit.edu.ph</li>
           <li>Phone:(63) 9951956028</li>
           <li>fbenj.0412@gmail.com</li>
           </ul>
